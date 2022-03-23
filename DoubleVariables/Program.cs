@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+// doubles can have a decimal point - 1.23, 43
+
+double averageAge;
+
+//averageAge = (43.0 + 22 + 62) / 3;
+
+averageAge = 1.0 / 3;
+
+Console.WriteLine(averageAge);
